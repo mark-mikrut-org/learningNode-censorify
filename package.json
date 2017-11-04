@@ -4,6 +4,14 @@
   "version": "0.0.1",
   "description": "Censors words out of text",
   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mark-mikrut-org/learningNode-censorify.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
   "dependencies": {},
   "engines": {
     "node": "*"
